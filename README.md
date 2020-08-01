@@ -4,13 +4,13 @@ practice on cifar100 using pytorch
 
 ## Requirements
 
-This is my experiment eviroument, pytorch0.4 should also be fine
-- python3.5
-- pytorch1.0
+This is my experiment eviroument:
+- python3.7
+- pytorch1.0 or above
 - tensorflow1.5(optional)
-- cuda8.0
-- cudnnv5
-- tensorboardX1.6(optional)
+- cuda10.0
+- cudnnv7
+- tensorboardX2.1(optional)
 
 
 ## Usage

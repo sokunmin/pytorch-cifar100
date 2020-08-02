@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # Created by Chun-Ming Su
-SLACK_TOKEN=xoxb-163244810354-721307881920-SsWNhr70KgKfVr1ru8c7e98o
-SLACK_ID="sokunmin"
+SLACK_TOKEN=YOUR_TOKEN
+SLACK_ID="YOUR_ID"
 SEND_TO_SLACK=true
 DELETE_OLD_CKPT=false
 SEED=0
